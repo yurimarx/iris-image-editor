@@ -22,7 +22,7 @@ $ docker-compose up -d
 
 4. Do to thumbnail: Go to your Postman (or other similar REST client) and config the request like this image, send and view the response:
 
-![Request for Thumbnail images](https://github.com/yurimarx/iris-image-editor/raw/main/thumbmail.png "Request for Thumbnail images")
+![Request for Thumbnail images](https://github.com/yurimarx/iris-image-editor/raw/main/thumbnail.png "Request for Thumbnail images")
 
 - Method: POST
 - URL: http://localhost:52773/iris-image-editor/thumbnail 
